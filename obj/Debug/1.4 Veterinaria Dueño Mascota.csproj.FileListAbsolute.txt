@@ -1,0 +1,20 @@
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\bin\Debug\1.4 Veterinaria Dueño Mascota.exe.config
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\bin\Debug\1.4 Veterinaria Dueño Mascota.exe
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\bin\Debug\1.4 Veterinaria Dueño Mascota.pdb
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\1.4 Veterinaria Dueño Mascota.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\_1._4_Veterinaria_Dueño_Mascota.Form1.resources
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\_1._4_Veterinaria_Dueño_Mascota.Properties.Resources.resources
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\1.4 Veterinaria Dueño Mascota.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\1.4 Veterinaria Dueño Mascota.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\1.4 Veterinaria Dueño Mascota.exe
+C:\Users\usuario\Desktop\T.U.P\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\1.4 Veterinaria Dueño Mascota.pdb
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\bin\Debug\1.4 Veterinaria Dueño Mascota.exe.config
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\bin\Debug\1.4 Veterinaria Dueño Mascota.exe
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\bin\Debug\1.4 Veterinaria Dueño Mascota.pdb
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\1.4 Veterinaria Dueño Mascota.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\_1._4_Veterinaria_Dueño_Mascota.Form1.resources
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\_1._4_Veterinaria_Dueño_Mascota.Properties.Resources.resources
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\1.4 Veterinaria Dueño Mascota.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\1.4 Veterinaria Dueño Mascota.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\1.4 Veterinaria Dueño Mascota.exe
+C:\Users\usuario\Desktop\T.U.P\Primer Cuatrimestre\Programacion I\Proyectos C#\Unidad 4\1.4 Veterinaria Dueño Mascota\obj\Debug\1.4 Veterinaria Dueño Mascota.pdb
